@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quanity
+1,valera_9500,hair_dryers,219.00,20
+2,valera_6500,hair_dryers,165.00,25
+3,valera_4ever,hair_dryers,275.00,10
+4,valera_7500,hair_dryers,199.00,20
+5,valera_digital,flat_iron,179.00,30
+6,valera_x_brush_44,brush,69.00,50
+7,valera_x_brush_33,brush,59.00,50
+8,valera_carbon_comb,comb,19.00,100
+9,valera_carbon_rake,comb,29.00,100
+10,valer_carbon_tail,comb,19.00,75

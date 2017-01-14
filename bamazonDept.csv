@@ -1,0 +1,5 @@
+department_id,department_name,over_head_costs,total_sales
+1,hair_dryers,NULL,NULL
+2,flat_iron,NULL,NULL
+3,comb,NULL,NULL
+4,brush,NULL,NULL
